@@ -1,10 +1,11 @@
+# Welcome to the Github repository of Blackout!
 
-# Blackout
+Here, you can find high-quality scripts developed and optimized by our team of skilled developers.
 
-Welcome on the Github of Blackout on this Github you can find scripts of a **premium quality**. 
+It's important to note that our scripts are **not to be given away or resold**. They are exclusively for use on your own server. This ensures that our code remains secure and only in the hands of authorized users.
 
-Coded and optimized by our team of developers
+Our team is dedicated to providing **premium quality scripts** that meet the needs of our clients. We take pride in our work and are committed to maintaining the highest standards of excellence.
 
-***The scripts can not be given or resold you can only use it in your server***
+If you have any questions or concerns about our scripts or their usage, please don't hesitate to **reach out to us**. We are always happy to assist you in any way we can.
 
 ### https://blackout.tebex.io/
